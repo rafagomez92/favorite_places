@@ -35,7 +35,6 @@ class _AddPlaceScreenState extends ConsumerState<AddPlaceScreen> {
   @override
   void initState() {
     super.initState();
-    _titleController.dispose();
   }
 
   @override
